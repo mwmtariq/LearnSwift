@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/6a/15/9c/6a159c6de7401e33684948247f4f2c3b.jpg" alt="Awesome">
     <div align="center">Learn Swift</div>
+    <div align="center">______________________________________________________________________________/div>
 </div>
 
 <p align="center">
