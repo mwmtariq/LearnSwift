@@ -5,7 +5,7 @@
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
-  <a href="https://ko-fi.com/setariqal_aqrabawi"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
+  <a href="https://ko-fi.com/setariqal_aqrabawi"><img width="110" alt="Buy Me a Coffee" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F555139091559386469%2F&psig=AOvVaw1TbLpHL6TFeedm1y67NRFo&ust=1614689802942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDg97WSj-8CFQAAAAAdAAAAABAU" /></a>
 </p>
 
 ### Content
