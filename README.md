@@ -6,18 +6,7 @@
  
 <link rel="stylesheet" href="dist/css/social-sharing.css">
    <a href="https://ko-fi.com/setariqal_aqrabawi"><img width="110" alt="Buy Me a Coffee" src="https://i.pinimg.com/originals/79/39/62/7939626b122bf51cbd4af28ef682f8e9.png" />Support Me </a>&hearts;
-<p>
-    <a class="btn-tweet" href="#">Twitter</a>
-<a class="btn-facebook" href="#">Facebook</a>
-<a class="btn-google" href="#">Google+</a>
-<a class="btn-linkedin" href="#">LinkedIn</a>
-<a class="btn-pinterest" href="#">Pinterest</a>
-<a class="btn-github" href="#">GitHub</a>
-<a class="btn-vk" href="#">VK</a>
-<a class="btn-xing" href="#">Xing</a>
-<a class="btn-tumblr" href="#">Tumblr</a>
-<a class="btn-reddit" href="#">Reddit</a>
-    </p>
+
 
     
 </p>
