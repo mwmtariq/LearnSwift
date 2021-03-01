@@ -9,7 +9,7 @@
   <div> </div>
 <link rel="stylesheet" href="dist/css/social-sharing.css">
  <div> </div>
-   <a href="https://ko-fi.com/setariqal_aqrabawi"><img width="110" alt="Buy Me a Coffee" src="https://i.pinimg.com/originals/79/39/62/7939626b122bf51cbd4af28ef682f8e9.png" />Support Me </a>&hearts;
+   <div align="center">  <a href="https://ko-fi.com/setariqal_aqrabawi"><img width="110" alt="Buy Me a Coffee" src="https://i.pinimg.com/originals/79/39/62/7939626b122bf51cbd4af28ef682f8e9.png" />  <div align="center">Support Me</div> </a>&hearts;</div>
 
  <div> </div>
     
