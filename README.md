@@ -3,8 +3,6 @@
 </div>
 
 <p align="center">
-    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  <a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
   <a href="https://ko-fi.com/setariqal_aqrabawi"><img width="110" alt="Buy Me a Coffee" src="https://i.pinimg.com/originals/79/39/62/7939626b122bf51cbd4af28ef682f8e9.png" /></a>
 </p>
 
